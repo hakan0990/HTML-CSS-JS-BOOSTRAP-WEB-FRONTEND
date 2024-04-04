@@ -1,0 +1,1 @@
+Freelance  olarak aldığım html css javascript ve boostrap kullanarak yaptığım frontend bir iş ileriki zamanlarda bunun backend kısmını yazmayı düsünüyorum asp.net ile bununla ilgili yeni commitler atmaya çalışacağım.
