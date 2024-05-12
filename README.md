@@ -1,1 +1,1 @@
-Freelance  olarak aldığım html css javascript ve boostrap kullanarak yaptığım frontend bir iş ileriki zamanlarda bunun backend kısmını yazmayı düsünüyorum asp.net ile bununla ilgili yeni commitler atmaya çalışacağım.
+It's a frontend job I did as a freelancer using html, css, javascript and boostrap. I'm thinking of writing the backend part of it in the future. I'll try to make new commits about it with asp.net.
